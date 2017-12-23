@@ -1,4 +1,4 @@
-package DataStructureChapter1;
+package dataStructureChapter1;
 
 import java.util.HashSet;
 
