@@ -4,6 +4,7 @@ public class SeqList<T> extends Object
 {
 	protected Object[] element;
 	protected int n;
+	
 	public SeqList(int length)
 	{
 		this.element = new Object[length];
@@ -20,4 +21,6 @@ public class SeqList<T> extends Object
 			this.element[i]=values[i];
 		this.n = element.length;
 	}
+	
+	
 }
